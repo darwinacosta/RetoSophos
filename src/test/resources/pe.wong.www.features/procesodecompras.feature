@@ -10,5 +10,5 @@ Característica: Ingresar a la pagina Wong y realizar el proceso
 
     Ejemplos:
 
-      | producto                                 | agregado |
-      | Panetón Pasas Gourmet Flamigni Caja 1 kg | sfd      |
+      | producto                                 | agregado                       |
+      | Panetón Pasas Gourmet Flamigni Caja 1 kg | ¡Producto agregado al carrito! |
