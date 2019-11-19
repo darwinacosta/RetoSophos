@@ -17,6 +17,7 @@ public class MensajeProductoAgregado implements Question<String> {
 
     @Override
     public String answeredBy(Actor actor) {
+        //Se valida el mensaje cuando se agrega el producto
         return Text.of(LBL_MENSAJE_EXITOSO.of(validarmensaje)).viewedBy(actor).asString();
     }
 
