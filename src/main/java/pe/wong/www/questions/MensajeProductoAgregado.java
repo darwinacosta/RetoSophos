@@ -3,7 +3,6 @@ package pe.wong.www.questions;
 import net.serenitybdd.screenplay.Actor;
 import net.serenitybdd.screenplay.Question;
 import net.serenitybdd.screenplay.questions.Text;
-import pe.wong.www.userinterfaces.PaginaBusquedaWong;
 
 import static pe.wong.www.userinterfaces.PaginaBusquedaWong.LBL_MENSAJE_EXITOSO;
 
