@@ -6,5 +6,5 @@ donde se realiza los string para realizar el porceso de agregar un producto y va
 de exito cuando se agrego el producto al carito
 
 Herramientas utilizadas
-gradle-5.4.1
-Intellij
+* gradle-5.4.1
+* Intellij
