@@ -15,7 +15,7 @@ public class ProcesoDeCompras implements Task {
     public ProcesoDeCompras(String producto) {
         this.producto = producto;
     }
-
+// se Realiza el paso a paso para ingresar el producto al carrito
     @Override
     public <T extends Actor> void performAs(T actor) {
         actor.attemptsTo(
